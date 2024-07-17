@@ -3,9 +3,9 @@ This flutter project enables users to choose between english and french  as thei
 
 ## Here's what makes the project thick:
 
-- ## Flutter Localization: Leverages flutter's robust Localization capabilities to deliver perfectly translated app content based on user selection.
-- ## Getx Storage: Saves the preferred language preference across app sessions using GetX storage, ensuring a consistent experience.
-- ## Clean Architecture & Design Patterns: Built with a focus on maintainability and scalability, employing clean architecture principles and design patterns(MVC)
+-  **Flutter Localization:** Leverages flutter's robust Localization capabilities to deliver perfectly translated app content based on user selection.
+- **Getx Storage:** Saves the preferred language preference across app sessions using GetX storage, ensuring a consistent experience.
+- **Clean Architecture & Design Patterns:** Built with a focus on maintainability and scalability, employing clean architecture principles and design patterns(MVC)
 
 
 # Screenshots
